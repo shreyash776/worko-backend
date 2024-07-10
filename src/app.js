@@ -48,6 +48,10 @@ app.get('/api/companies/search', async (req, res) => {
   }
 });
 
+app.get('/hello', (req, res) => {
+  res.json({ message: 'Hello, world!' });
+});
+
 // Start the server
 app.listen(PORT, () => {
   console.log(`Server is running on http://localhost:${PORT}`);
