@@ -1,0 +1,357 @@
+[{
+  "_id": {
+    "$oid": "668e23accfa3fde961f7c305"
+  },
+  "name": "Apple",
+  "description": "Technology company known for iPhone, iPad, and Mac computers."
+},
+{
+  "_id": {
+    "$oid": "668e23accfa3fde961f7c306"
+  },
+  "name": "Microsoft",
+  "description": "Technology company that develops, manufactures, licenses, supports, and sells software, electronics, and personal computers."
+},
+{
+  "_id": {
+    "$oid": "668e23accfa3fde961f7c307"
+  },
+  "name": "Google",
+  "description": "Technology company specializing in internet-related services and products."
+},
+{
+  "_id": {
+    "$oid": "668e23accfa3fde961f7c308"
+  },
+  "name": "Amazon",
+  "description": "E-commerce company also known for its cloud computing services."
+},
+{
+  "_id": {
+    "$oid": "668e23accfa3fde961f7c309"
+  },
+  "name": "Facebook",
+  "description": "Social media and technology company."
+},
+{
+  "_id": {
+    "$oid": "668e23accfa3fde961f7c30a"
+  },
+  "name": "Tesla",
+  "description": "Electric vehicle and clean energy company."
+},
+{
+  "_id": {
+    "$oid": "668e23accfa3fde961f7c30b"
+  },
+  "name": "IBM",
+  "description": "Technology company offering hardware, software, and consulting services."
+},
+{
+  "_id": {
+    "$oid": "668e23accfa3fde961f7c30c"
+  },
+  "name": "Intel",
+  "description": "Technology company known for manufacturing semiconductor chips."
+},
+{
+  "_id": {
+    "$oid": "668e23accfa3fde961f7c30d"
+  },
+  "name": "Samsung",
+  "description": "Conglomerate known for electronics, appliances, and semiconductors."
+},
+{
+  "_id": {
+    "$oid": "668e23accfa3fde961f7c30e"
+  },
+  "name": "Sony",
+  "description": "Multinational conglomerate corporation known for electronics, gaming, entertainment, and financial services."
+},
+{
+  "_id": {
+    "$oid": "668e23accfa3fde961f7c30f"
+  },
+  "name": "Cisco",
+  "description": "Technology company that designs, manufactures, and sells networking equipment."
+},
+{
+  "_id": {
+    "$oid": "668e23accfa3fde961f7c310"
+  },
+  "name": "Oracle",
+  "description": "Technology company specializing in database software and technology."
+},
+{
+  "_id": {
+    "$oid": "668e23accfa3fde961f7c311"
+  },
+  "name": "Adobe",
+  "description": "Software company known for its multimedia and creativity software products."
+},
+{
+  "_id": {
+    "$oid": "668e23accfa3fde961f7c312"
+  },
+  "name": "Salesforce",
+  "description": "Cloud-based software company specializing in CRM."
+},
+{
+  "_id": {
+    "$oid": "668e23accfa3fde961f7c313"
+  },
+  "name": "HP",
+  "description": "Technology company providing hardware and software solutions."
+},
+{
+  "_id": {
+    "$oid": "668e23accfa3fde961f7c314"
+  },
+  "name": "Dell",
+  "description": "Technology company known for computers and related products and services."
+},
+{
+  "_id": {
+    "$oid": "668e23accfa3fde961f7c315"
+  },
+  "name": "Uber",
+  "description": "Ride-hailing company that also offers food delivery and freight services."
+},
+{
+  "_id": {
+    "$oid": "668e23accfa3fde961f7c316"
+  },
+  "name": "Lyft",
+  "description": "Ride-hailing company offering transportation services."
+},
+{
+  "_id": {
+    "$oid": "668e23accfa3fde961f7c317"
+  },
+  "name": "Airbnb",
+  "description": "Online marketplace for lodging, primarily homestays for vacation rentals."
+},
+{
+  "_id": {
+    "$oid": "668e23accfa3fde961f7c318"
+  },
+  "name": "Netflix",
+  "description": "Streaming service offering online streaming of a library of films and television programs."
+},
+{
+  "_id": {
+    "$oid": "668e23accfa3fde961f7c319"
+  },
+  "name": "Spotify",
+  "description": "Audio streaming and media services provider."
+},
+{
+  "_id": {
+    "$oid": "668e23accfa3fde961f7c31a"
+  },
+  "name": "Snap",
+  "description": "Technology and camera company known for Snapchat."
+},
+{
+  "_id": {
+    "$oid": "668e23accfa3fde961f7c31b"
+  },
+  "name": "Twitter",
+  "description": "Social networking and microblogging service."
+},
+{
+  "_id": {
+    "$oid": "668e23accfa3fde961f7c31c"
+  },
+  "name": "Square",
+  "description": "Financial services and mobile payment company."
+},
+{
+  "_id": {
+    "$oid": "668e23accfa3fde961f7c31d"
+  },
+  "name": "PayPal",
+  "description": "Online payments system that supports online money transfers."
+},
+{
+  "_id": {
+    "$oid": "668e23accfa3fde961f7c31e"
+  },
+  "name": "eBay",
+  "description": "E-commerce corporation facilitating consumer-to-consumer and business-to-consumer sales."
+},
+{
+  "_id": {
+    "$oid": "668e23accfa3fde961f7c31f"
+  },
+  "name": "Alibaba",
+  "description": "Chinese multinational conglomerate specializing in e-commerce, retail, and technology."
+},
+{
+  "_id": {
+    "$oid": "668e23accfa3fde961f7c320"
+  },
+  "name": "Baidu",
+  "description": "Chinese multinational technology company specializing in internet-related services."
+},
+{
+  "_id": {
+    "$oid": "668e23accfa3fde961f7c321"
+  },
+  "name": "Tencent",
+  "description": "Chinese multinational conglomerate holding company with subsidiaries in various internet-related services."
+},
+{
+  "_id": {
+    "$oid": "668e23accfa3fde961f7c322"
+  },
+  "name": "Huawei",
+  "description": "Chinese multinational technology company known for telecommunications equipment and consumer electronics."
+},
+{
+  "_id": {
+    "$oid": "668e23accfa3fde961f7c323"
+  },
+  "name": "Xiaomi",
+  "description": "Chinese electronics company known for smartphones and other electronics."
+},
+{
+  "_id": {
+    "$oid": "668e23accfa3fde961f7c324"
+  },
+  "name": "Nvidia",
+  "description": "Technology company known for its graphics processing units (GPUs)."
+},
+{
+  "_id": {
+    "$oid": "668e23accfa3fde961f7c325"
+  },
+  "name": "AMD",
+  "description": "Technology company known for manufacturing semiconductor devices."
+},
+{
+  "_id": {
+    "$oid": "668e23accfa3fde961f7c326"
+  },
+  "name": "Qualcomm",
+  "description": "Technology company known for its telecommunications products and services."
+},
+{
+  "_id": {
+    "$oid": "668e23accfa3fde961f7c327"
+  },
+  "name": "Broadcom",
+  "description": "Designer, developer, manufacturer, and global supplier of a broad range of semiconductor and infrastructure software solutions."
+},
+{
+  "_id": {
+    "$oid": "668e23accfa3fde961f7c328"
+  },
+  "name": "ARM Holdings",
+  "description": "Designs ARM processors and related technology."
+},
+{
+  "_id": {
+    "$oid": "668e23accfa3fde961f7c329"
+  },
+  "name": "Spotify",
+  "description": "Digital music service that gives you access to millions of songs."
+},
+{
+  "_id": {
+    "$oid": "668e23accfa3fde961f7c32a"
+  },
+  "name": "Slack",
+  "description": "Business communication platform."
+},
+{
+  "_id": {
+    "$oid": "668e23accfa3fde961f7c32b"
+  },
+  "name": "Zoom",
+  "description": "Video communication and virtual meeting service."
+},
+{
+  "_id": {
+    "$oid": "668e23accfa3fde961f7c32c"
+  },
+  "name": "Shopify",
+  "description": "E-commerce company providing a platform for online stores and retail point-of-sale systems."
+},
+{
+  "_id": {
+    "$oid": "668e23accfa3fde961f7c32d"
+  },
+  "name": "Stripe",
+  "description": "Technology company that builds economic infrastructure for the internet."
+},
+{
+  "_id": {
+    "$oid": "668e23accfa3fde961f7c32e"
+  },
+  "name": "Square",
+  "description": "Financial services and digital payments company."
+},
+{
+  "_id": {
+    "$oid": "668e23accfa3fde961f7c32f"
+  },
+  "name": "Pinterest",
+  "description": "Image sharing and social media service."
+},
+{
+  "_id": {
+    "$oid": "668e23accfa3fde961f7c330"
+  },
+  "name": "LinkedIn",
+  "description": "Business and employment-oriented online service."
+},
+{
+  "_id": {
+    "$oid": "668e23accfa3fde961f7c331"
+  },
+  "name": "Dropbox",
+  "description": "File hosting service offering cloud storage and file synchronization."
+},
+{
+  "_id": {
+    "$oid": "668e23accfa3fde961f7c332"
+  },
+  "name": "WeWork",
+  "description": "Commercial real estate company providing shared workspaces."
+},
+{
+  "_id": {
+    "$oid": "668e23accfa3fde961f7c333"
+  },
+  "name": "Palantir",
+  "description": "Public American company that specializes in big data analytics."
+},
+{
+  "_id": {
+    "$oid": "668e23accfa3fde961f7c334"
+  },
+  "name": "Snowflake",
+  "description": "Cloud computing-based data warehousing company."
+},
+{
+  "_id": {
+    "$oid": "668e23accfa3fde961f7c335"
+  },
+  "name": "Datadog",
+  "description": "Monitoring and security platform for cloud applications."
+},
+{
+  "_id": {
+    "$oid": "668e23accfa3fde961f7c336"
+  },
+  "name": "Atlassian",
+  "description": "Enterprise software company developing products for software developers."
+},
+{
+  "_id": {
+    "$oid": "668e23accfa3fde961f7c337"
+  },
+  "name": "GitHub",
+  "description": "Web-based version-control and collaboration platform for software developers."
+}]
